@@ -8,7 +8,7 @@ and what you can regenerate yourself.
 
 Every figure shown in [Key Findings](key-findings.md) and
 [Results](results/index.md) is a static PNG committed to the repository under
-[`docs/assets/figures/`](https://github.com/ayalaajil/Benchmark-EastAfrica/tree/main/docs/assets/figures)
+[`docs/assets/figures/`](https://github.com/MBZUAI-Aim-For-scale/Benchmark-AI-Models-for-EastAfrica/tree/main/docs/assets/figures)
 — right-click any figure on this site and "save image" to get a full-resolution
 copy, or browse the folder directly on GitHub.
 
@@ -57,7 +57,7 @@ figures from scratch are on the [Reproducibility](reproducibility.md) page.
 ## Source code
 
 The inference and verification pipeline lives in
-[`benchmark_ea/`](https://github.com/ayalaajil/Benchmark-EastAfrica/tree/main/benchmark_ea)
-and [`run_verification.py`](https://github.com/ayalaajil/Benchmark-EastAfrica/blob/main/run_verification.py)
+[`benchmark_ea/`](https://github.com/MBZUAI-Aim-For-scale/Benchmark-AI-Models-for-EastAfrica/tree/main/benchmark_ea)
+and [`run_verification.py`](https://github.com/MBZUAI-Aim-For-scale/Benchmark-AI-Models-for-EastAfrica/blob/main/run_verification.py)
 in the repository root; see [Methodology](methodology.md) for how it fits
 together.

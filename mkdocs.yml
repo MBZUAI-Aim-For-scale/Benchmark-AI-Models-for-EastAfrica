@@ -1,8 +1,8 @@
 site_name: East Africa AI Weather Benchmark
 site_description: Probabilistic benchmark of ML weather models for daily rainfall over East Africa
-site_url: https://ayalaajil.github.io/Benchmark-EastAfrica
-repo_url: https://github.com/ayalaajil/Benchmark-EastAfrica
-repo_name: ayalaajil/Benchmark-EastAfrica
+site_url: https://mbzuai-aim-for-scale.github.io/Benchmark-AI-Models-for-EastAfrica
+repo_url: https://github.com/MBZUAI-Aim-For-scale/Benchmark-AI-Models-for-EastAfrica
+repo_name: MBZUAI-Aim-For-scale/Benchmark-AI-Models-for-EastAfrica
 
 theme:
   name: material
@@ -29,7 +29,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Dashboard: https://ayalaajil.github.io/Benchmark-EastAfrica/dashboard/
+  - Dashboard: https://mbzuai-aim-for-scale.github.io/Benchmark-AI-Models-for-EastAfrica/dashboard/
   - Key Findings: key-findings.md
   - Methodology: methodology.md
   - Results:

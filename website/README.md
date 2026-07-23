@@ -60,7 +60,7 @@ scores and Brier tables are shown as figures on the Events tab instead
 This folder **is** the site. `.github/workflows/docs.yml` publishes it as-is
 to the root of `gh-pages` on every push to `main` touching `website/**`:
 
-- https://ayalaajil.github.io/Benchmark-EastAfrica/
+- https://mbzuai-aim-for-scale.github.io/Benchmark-AI-Models-for-EastAfrica/
 
 The old MkDocs site is retired; its content lives in the **Key findings** and
 **About** tabs here. Don't push to `gh-pages` directly — the workflow
