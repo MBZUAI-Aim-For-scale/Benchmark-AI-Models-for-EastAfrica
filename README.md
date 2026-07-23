@@ -1,9 +1,9 @@
-# East Africa AI Weather-Model Benchmark
+# East Africa AI Weather Models
 
-Benchmarks machine-learning weather forecast systems — **GenCast** (diffusion
+Benchmarks machine-learning weather forecast systems: **GenCast** (diffusion
 ensemble), **NeuralGCM** (hybrid dynamical-ML ensemble), **GraphCast**
 (deterministic GNN), **FourCastNet v2 + PrecipitationAFNO** (deterministic
-SFNO) — against a **climatology baseline** over East Africa, verified against
+SFNO), against a **climatology baseline** over East Africa, verified against
 **CHIRPS**, **ERA5**, and **TAMSAT**.
 
 See [EXPERIMENTAL_SETUP.md](EXPERIMENTAL_SETUP.md) for domain, models, references,
